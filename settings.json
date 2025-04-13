@@ -1,0 +1,96 @@
+{
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.codeActionsOnSave": {},
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "Intel One Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.hover.delay": 250,
+  "editor.hover.hidingDelay": 250,
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "[Monokai Pro (Filter Ristretto)]": {
+      "comments": "#58a96c"
+    }
+  },
+  "editor.stickyScroll.enabled": false,
+
+  "eslint.codeActionsOnSave.rules": null,
+
+  "extensions.autoUpdate": false,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.enableTrash": false,
+
+  "git.autofetch": true,
+  "git.autoStash": true,
+  "git.confirmSync": false,
+  "git.enableCommitSigning": true,
+  "git.fetchOnPull": true,
+
+  "git-graph.repository.sign.commits": true,
+  "git-graph.repository.sign.tags": true,
+
+  "gitlens.advanced.messages": {
+    "suppressCreatePullRequestPrompt": true
+  },
+  "gitlens.views.branches.showBranchComparison": false,
+  "gitlens.views.scm.grouped.views": {
+    "commits": false,
+    "branches": false,
+    "remotes": false,
+    "stashes": false,
+    "tags": true,
+    "worktrees": true,
+    "contributors": true,
+    "repositories": false,
+    "searchAndCompare": false,
+    "launchpad": false
+  },
+
+  "javascript.experimental.updateImportsOnPaste": true,
+  "javascript.referencesCodeLens.enabled": true,
+  "javascript.referencesCodeLens.showOnAllFunctions": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "scm.showHistoryGraph": false,
+  "scm.alwaysShowActions": true,
+
+  "todohighlight.keywords": [
+    {
+      "text": "TODO",
+      "color": "#fff",
+      "border": "0px",
+      "borderRadius": "0px",
+      "backgroundColor": "#b0153f"
+    }
+  ],
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.experimental.expandableHover": true,
+
+  "tailwind-fold.autoFold": false,
+  "tailwindCSS.colorDecorators": false,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindcss-intellisense.trace.server": "messages",
+
+  "vue.autoInsert.dotValue": true,
+  "vue.server.hybridMode": "typeScriptPluginOnly",
+
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground1": "#c45151",
+    "editorIndentGuide.background1": "#5e5e5e",
+    "editorBracketMatch.background": "#ff000071",
+    "editorBracketMatch.border": "#ffffffc4"
+  },
+
+  "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+  "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+  "workbench.sideBar.location": "right"
+}
